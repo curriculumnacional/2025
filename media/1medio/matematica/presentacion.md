@@ -1,54 +1,13 @@
 # Presentación
 
-presentación 
-(concreto,  pictórico  y  simbólico),  traduciendo 
-situaciones de la vida cotidiana a lenguaje formal 
-o  utilizando  símbolos  matemáticos  para  resolver 
-problemas o explicar situaciones concretas. Así se 
-logra  que  las  expresiones  matemáticas  adquieran 
-un sentido próximo para las alumnas y los alumnos. 
+Las Bases Curriculares, por medio de los Objetivos de Aprendizaje (OA), definen la expectativa formativa que se espera que logren las y los estudiantes en cada asignatura y curso. Dichos objetivos integran conocimientos, habilidades y actitudes fundamentales para que los y las jóvenes alcancen un desarrollo armónico e integral que les permita enfrentar su futuro con las herramientas necesarias para participar de manera activa, responsable y crítica en la sociedad.
 
-de los alumnos y las alumnas con el conocimiento 
-matemático, se espera que ellos y ellas desarrollen una 
-inclinación favorable hacia la disciplina. Especialmente 
-en relación con los injustificados resultados inferiores 
-de las mujeres en la asignatura3, se pretende que 
-las estudiantes adquieran mayor confianza y empatía 
-respecto del aprendizaje de la disciplina, y se busca 
-estimular su participación en la clase de Matemática 
-en condiciones de igualdad.
+Las Bases Curriculares son un referente para los establecimientos que deseen elaborar programas propios, de modo de posibilitarles una decisión autónoma respecto de la manera en que se abordan los Objetivos de Aprendizaje planteados. Las múltiples realidades de las comunidades educativas de nuestro país dan origen a una diversidad de aproximaciones curriculares, didácticas, metodológicas y organizacionales que se expresan en distintos procesos de gestión curricular, los cuales deben resguardar el logro de los Objetivos de Aprendizaje definidos en las Bases.
 
-Las Bases Curriculares dan relevancia al modelamiento 
-matemático. El objetivo de desarrollar esta habilidad 
-es lograr que el o la estudiante construya una versión 
-simplificada y abstracta de los sistemas que operan 
-en la realidad, que capture los patrones clave y los 
-exprese mediante símbolos matemáticos. 
+En esta línea, las Bases Curriculares no entregan orientaciones didácticas específicas, sino que proveen un marco común y obligatorio. Al Ministerio de Educación le corresponde la tarea de elaborar Programas de Estudio que entreguen una propuesta pedagógica para la implementación de las Bases Curriculares en los establecimientos que no optan por generar programas propios. Estos Programas constituyen un complemento coherente y alineado con las Bases y buscan ser una herramienta de apoyo para las y los docentes.
 
-Asimismo,  las  habilidades  comunicativas  y 
-argumentativas  son  centrales.  Las  primeras  se 
-relacionan con la capacidad de expresar ideas con 
-claridad  y  son  muy  importantes  para  comprender 
-el razonamiento que hay detrás de cada problema 
-resuelto  o  concepto  comprendido.  Las  segundas 
-permiten desarrollar una actitud reflexiva y abierta 
-al  debate  de  sus  fundamentos.  Por  otro  lado,  las 
-Bases  de  la  asignatura  promueven  el  uso  de  las 
-tecnologías de la información y la comunicación 
-(TIC), fundamentalmente como un apoyo para la 
-comprensión  del  conocimiento  matemático,  para 
-manipular representaciones de funciones y de objetos 
-geométricos, o bien para organizar la información y 
-comunicar resultados. La asignatura se orienta a la 
-comprensión de las distintas operaciones matemáticas; 
-por lo tanto, el uso de las TIC como herramienta debe 
-reservarse para las comprobaciones rápidas de cálculos, 
-y para efectuar una gran cantidad de operaciones, o 
-para realizar operaciones con números muy grandes. 
-Es necesario que las y los estudiantes comprendan y 
-apliquen los conceptos y las operaciones involucradas 
-antes de usar estos medios.
+Los Programas de Estudio proponen una organización de los Objetivos de Aprendizaje de acuerdo con el tiempo disponible dentro del año escolar. Dicha organización es de carácter orientador y, por tanto, los profesores y las profesoras deben modificarla de acuerdo a la realidad de sus estudiantes y de su escuela, considerando criterios pedagógicos y curriculares acordados por la comunidad educativa.
 
-Considerando  que  el  proceso  de  aprendizaje  que 
-proponen  estos  programas  para  la  asignatura  de 
-Matemática relaciona constantemente las experiencias
+Cada Programa proporciona, además, orientaciones didácticas, actividades de aprendizaje y sugerencias de evaluación de carácter flexible y general, que pueden ser utilizadas, modificadas o reemplazadas según lo estime conveniente cada docente. También incluyen recomendaciones de recursos didácticos y bibliografía para docentes y estudiantes.
+
+En síntesis, estos Programas de Estudio se entregan como apoyo a la labor de enseñanza, en el marco de la Ley General de Educación (Ley N° 20.370 de 2009). Su uso es voluntario, pues la ley permite que cada institución escolar elabore sus propios programas en función de los Objetivos de Aprendizaje establecidos en las Bases.
